@@ -6,9 +6,9 @@ shows the details of each sandwich once it is selected.
 
 ## Project's purpose
 Building a layout and populating its fields from data received as JSON
-is a common task for Android Developers. Although JSON parsing is usually
+is a common task for Android Developers at work. Although JSON parsing is usually
 done using libraries, writing the JSON parsing for this project helped
-help you to better understand how it is processed.
+me to better understand how it is processed.
 
 ## What I learned
 Through this project:
